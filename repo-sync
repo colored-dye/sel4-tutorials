@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+repo init -u https://github.com/seL4/sel4-tutorials-manifest
+repo sync
